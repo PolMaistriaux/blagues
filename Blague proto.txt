@@ -2,3 +2,5 @@ Ta mere en string de guerre c'est une belle panthere.
 Ta mere est tellement grosse, pour marcher elle a du passer son permis poids lourd.
 Ta mere est tellement grosse que quand elle tombe du lit c'est des deux cotes.
 Ta mere est tellement poilue que quand elle promene son chien c'est elle qu'on caresse.
+Refusée au bar, la requête SQL veut aller en boîte et le videur lui dit : « Non, dehors ! C'est select ici.
+C'est une requête SQL qui entre dans un bar, et le serveur répond : « Il n'y a plus de tables !
